@@ -1,0 +1,6 @@
+[submodule "sfml-classic-pong-game"]
+	path = sfml-classic-pong-game
+	url = git@github.com:karprabha/sfml-classic-pong-game.git
+[submodule "cpp-games"]
+	path = cpp-games
+	url = git@github.com:karprabha/cpp-games.git
